@@ -1,5 +1,5 @@
 ## So Clementine Ford recently tweeted that “Coronavirus isn’t killing men fast enough” (16:33 May 23 2020 UTC)
-Before I start, some context: Nearly 350000 people have died worldwide, and according to recent studies, is more fatal in men than women, with about 60% of deaths being men (source: globalhealth5050.org/covid19). Despite this, Ford continues to stand behind her statements, only taking down the tweet and issuing an “apology” when the Melbourne City Council stated that they were “reviewing” her ratepayer (basically an arts grant). 
+Before I start, some context: Nearly 350000 people have died from the virus worldwide, and according to recent studies, Coronavirus is more fatal in men than women, with about 60% of deaths being men (source: globalhealth5050.org/covid19). Despite this, Ford continues to stand behind her statements, only taking down the tweet and issuing an “apology” when the Melbourne City Council stated that they were “reviewing” her ratepayer (basically an arts grant). 
 
 So let’s just break down her apology:
 > “because some men (not all of them!) clearly need context explained to them, the Corona tweet was in response to this article, outline *yet again* the unpaid domestic burden men place on women, because they can’t care for their own fkn kids.” (1/10)

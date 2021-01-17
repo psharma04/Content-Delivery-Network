@@ -1,0 +1,245 @@
+Total Bill,Tip,Day,Pizza Type,Time,Date,Payment Method
+16.99,1.01,Monday,Hawaian,Brunch,1/1/19,Card
+10.34,1.66,Tuesday,Pepperoni,Lunch,2/1/19,Cash
+21.01,3.5,Wednesday,BBQ chicken,Dinner,3/1/19,Card
+23.68,3.31,Thursday,Napolitan,Brunch,4/1/19,Cash
+24.59,3.61,Friday,Mexican,Dinner,5/1/19,Cash
+25.29,4.71,Saturaday,Mushrooms,Lunch,6/1/19,Card
+8.77,2,Sunday,Garlic fingers,Dinner,7/1/19,Card
+26.88,3.12,Friday,Carbonara,Brunch,8/1/19,Cash
+15.04,1.96,Monday,Rustica,Dinner,9/1/19,Cash
+14.78,3.23,Saturaday,Supreme,Lunch,10/1/19,Card
+10.27,1.71,Sunday,Double cheese,Dinner,11/1/19,Cash
+35.26,5,Thursday,Rustica,Dinner,12/1/19,Card
+15.42,1.57,Tuesday,Supreme,Dinner,13/1/19,Cash
+18.43,3,Wednesday,Double cheese,Lunch,14/1/19,Cash
+14.83,3.02,Tuesday,BBQ chicken,Dinner,15/1/19,Cash
+21.58,3.92,Thursday,Carbonara,Dinner,16/1/19,Card
+10.33,1.67,Sunday,Double cheese,Brunch,17/1/19,Cash
+16.29,3.71,Saturaday,Garlic fingers,Dinner,18/1/19,Card
+16.97,3.5,Monday,Hawaian,Lunch,19/1/19,Card
+20.65,3.35,Friday,Mexican,Lunch,20/1/19,Card
+17.92,4.08,Saturaday,Mushrooms,Brunch,21/1/19,Card
+20.29,2.75,Sunday,Napolitan,Lunch,22/1/19,Cash
+15.77,2.23,Sunday,Pepperoni,Dinner,23/1/19,Card
+39.42,7.58,Tuesday,Rustica,Dinner,24/1/19,Cash
+19.82,3.18,Friday,Supreme,Brunch,25/1/19,Card
+17.81,2.34,Thursday,Supreme,Dinner,26/1/19,Cash
+13.37,2,Wednesday,Rustica,Lunch,27/1/19,Card
+12.69,2,Saturaday,Pepperoni,Brunch,28/1/19,Cash
+21.7,4.3,Saturaday,Napolitan,Lunch,29/1/19,Cash
+19.65,3,Sunday,Mushrooms,Dinner,30/1/19,Card
+9.55,1.45,Monday,Mexican,Brunch,31/1/19,Cash
+18.35,2.5,Saturaday,Hawaian,Dinner,1/2/19,Cash
+15.06,3,Sunday,Garlic fingers,Lunch,2/2/19,Cash
+20.69,2.45,Thursday,Double cheese,Dinner,3/2/19,Card
+17.78,3.27,Tuesday,Carbonara,Brunch,4/2/19,Card
+24.06,3.6,Wednesday,BBQ chicken,Brunch,5/2/19,Cash
+16.31,2,Wednesday,Mexican,Lunch,6/2/19,Cash
+16.93,3.07,Tuesday,Mushrooms,Dinner,7/2/19,Cash
+18.69,2.31,Thursday,Napolitan,Lunch,8/2/19,Cash
+31.27,5,Sunday,Pepperoni,Dinner,9/2/19,Card
+16.04,2.24,Saturaday,Rustica,Dinner,10/2/19,Cash
+17.46,2.54,Monday,Supreme,Dinner,11/2/19,Cash
+13.94,3.06,Friday,Supreme,Dinner,12/2/19,Card
+9.68,1.32,Saturaday,Rustica,Brunch,13/2/19,Cash
+30.4,5.6,Sunday,Pepperoni,Dinner,14/2/19,Cash
+18.29,3,Monday,Napolitan,Dinner,15/2/19,Card
+22.23,5,Monday,Mushrooms,Dinner,16/2/19,Cash
+32.4,6,Monday,Mexican,Brunch,17/2/19,Cash
+28.55,2.05,Friday,Hawaian,Dinner,18/2/19,Cash
+18.04,3,Monday,Garlic fingers,Brunch,19/2/19,Card
+12.54,2.5,Saturaday,Double cheese,Lunch,20/2/19,Cash
+10.29,2.6,Sunday,Carbonara,Dinner,21/2/19,Cash
+34.81,5.2,Thursday,BBQ chicken,Brunch,22/2/19,Card
+9.94,1.56,Tuesday,Carbonara,Dinner,23/2/19,Card
+25.56,4.34,Wednesday,Double cheese,Lunch,24/2/19,Cash
+19.49,3.51,Monday,Garlic fingers,Brunch,25/2/19,Card
+38.01,3,Sunday,Hawaian,Dinner,26/2/19,Card
+26.41,1.5,Sunday,Mexican,Brunch,27/2/19,Card
+11.24,1.76,Tuesday,Mushrooms,Dinner,28/2/19,Card
+48.27,6.73,Friday,Napolitan,Lunch,1/3/19,Card
+20.29,3.21,Thursday,Pepperoni,Brunch,2/3/19,Cash
+13.81,2,Wednesday,Rustica,Brunch,3/3/19,Cash
+11.02,1.98,Saturaday,Supreme,Dinner,4/3/19,Cash
+18.29,3.76,Sunday,Supreme,Lunch,5/3/19,Card
+17.59,2.64,Sunday,Rustica,Brunch,6/3/19,Cash
+20.08,3.15,Saturaday,Pepperoni,Dinner,7/3/19,Card
+16.45,2.47,Sunday,Napolitan,Lunch,8/3/19,Cash
+3.07,1,Friday,Mushrooms,Brunch,9/3/19,Cash
+20.23,2.01,Monday,Mexican,Lunch,10/3/19,Card
+15.01,2.09,Saturaday,Hawaian,Dinner,11/3/19,Card
+12.02,1.97,Sunday,Garlic fingers,Brunch,12/3/19,Cash
+17.07,3,Thursday,Double cheese,Dinner,13/3/19,Cash
+26.86,3.14,Tuesday,Carbonara,Lunch,14/3/19,Card
+25.28,5,Wednesday,BBQ chicken,Brunch,15/3/19,Card
+14.73,2.2,Wednesday,Supreme,Dinner,16/3/19,Cash
+10.51,1.25,Tuesday,Double cheese,Lunch,17/3/19,Card
+17.92,3.08,Thursday,BBQ chicken,Brunch,18/3/19,Cash
+27.2,4,Sunday,Carbonara,Brunch,19/3/19,Card
+22.76,3,Saturaday,Double cheese,Lunch,20/3/19,Card
+17.29,2.71,Monday,Garlic fingers,Dinner,21/3/19,Card
+19.44,3,Friday,Hawaian,Brunch,22/3/19,Card
+16.66,3.4,Sunday,Mexican,Dinner,23/3/19,Card
+10.07,1.83,Monday,Mushrooms,Lunch,24/3/19,Cash
+32.68,5,Sunday,Napolitan,Brunch,25/3/19,Card
+15.98,2.03,Tuesday,Pepperoni,Brunch,26/3/19,Card
+34.83,5.17,Friday,Rustica,Brunch,27/3/19,Card
+13.03,2,Thursday,Supreme,Dinner,28/3/19,Cash
+18.28,4,Wednesday,Supreme,Lunch,29/3/19,Card
+24.71,5.85,Saturaday,Rustica,Brunch,30/3/19,Cash
+21.16,3,Friday,Pepperoni,Lunch,31/3/19,Card
+28.97,3,Monday,Napolitan,Dinner,1/4/19,Card
+22.49,3.5,Saturaday,Mushrooms,Brunch,2/4/19,Card
+5.75,1,Sunday,Mexican,Dinner,3/4/19,Card
+16.32,4.3,Thursday,Hawaian,Lunch,4/4/19,Card
+22.75,3.25,Tuesday,Garlic fingers,Brunch,5/4/19,Card
+40.17,4.73,Wednesday,Double cheese,Brunch,6/4/19,Cash
+27.28,4,Saturaday,Carbonara,Brunch,7/4/19,Card
+12.03,1.5,Sunday,BBQ chicken,Dinner,8/4/19,Card
+21.01,3,Friday,Mexican,Lunch,9/4/19,Cash
+12.46,1.5,Monday,Mushrooms,Brunch,10/4/19,Cash
+11.35,2.5,Saturaday,Napolitan,Brunch,11/4/19,Card
+15.38,3,Sunday,Pepperoni,Dinner,12/4/19,Card
+44.3,2.5,Thursday,Rustica,Lunch,13/4/19,Card
+22.42,3.48,Tuesday,Supreme,Brunch,14/4/19,Card
+20.92,4.08,Wednesday,Napolitan,Lunch,15/4/19,Card
+15.36,1.64,Wednesday,Mexican,Brunch,16/4/19,Cash
+20.49,4.06,Tuesday,Mushrooms,Lunch,17/4/19,Card
+25.21,4.29,Thursday,Garlic fingers,Dinner,18/4/19,Card
+18.24,3.76,Sunday,Carbonara,Brunch,19/4/19,Card
+14.31,4,Saturaday,Rustica,Dinner,20/4/19,Card
+14,3,Monday,Supreme,Lunch,21/4/19,Card
+7.25,1,Friday,Double cheese,Brunch,22/4/19,Card
+38.07,4,Sunday,Supreme,Lunch,23/4/19,Cash
+23.95,2.55,Sunday,Rustica,Brunch,24/4/19,Card
+25.71,4,Saturaday,Pepperoni,Dinner,25/4/19,Cash
+17.31,3.5,Sunday,Napolitan,Brunch,26/4/19,Cash
+29.93,5.07,Thursday,Mushrooms,Dinner,27/4/19,Card
+10.65,1.5,Monday,Mexican,Lunch,28/4/19,Card
+12.43,1.8,Sunday,Hawaian,Brunch,29/4/19,Cash
+24.08,2.92,Tuesday,Garlic fingers,Lunch,30/4/19,Card
+11.69,2.31,Friday,Double cheese,Brunch,1/5/19,Cash
+13.42,1.68,Thursday,Carbonara,Lunch,2/5/19,Cash
+14.26,2.5,Wednesday,BBQ chicken,Dinner,3/5/19,Card
+15.95,2,Saturaday,Carbonara,Dinner,4/5/19,Card
+12.48,2.52,Thursday,Double cheese,Lunch,5/5/19,Card
+29.8,4.2,Saturaday,Garlic fingers,Brunch,6/5/19,Cash
+8.52,1.48,Sunday,Hawaian,Lunch,7/5/19,Card
+14.52,2,Thursday,Mexican,Dinner,8/5/19,Card
+11.38,2,Sunday,Mushrooms,Lunch,9/5/19,Cash
+22.82,2.18,Wednesday,Napolitan,Lunch,10/5/19,Cash
+19.08,1.5,Tuesday,Pepperoni,Lunch,11/5/19,Card
+20.27,2.83,Thursday,Rustica,Brunch,12/5/19,Cash
+11.17,1.5,Sunday,Supreme,Lunch,13/5/19,Card
+12.26,2,Saturaday,Supreme,Dinner,14/5/19,Cash
+18.26,3.25,Monday,Rustica,Lunch,15/5/19,Card
+8.51,1.25,Friday,Pepperoni,Lunch,16/5/19,Card
+10.33,2,Saturaday,Napolitan,Brunch,17/5/19,Card
+14.15,2,Sunday,Mushrooms,Dinner,18/5/19,Cash
+16,2,Thursday,Mexican,Lunch,19/5/19,Cash
+13.16,2.75,Friday,Hawaian,Brunch,20/5/19,Cash
+17.47,3.5,Monday,Garlic fingers,Lunch,21/5/19,Card
+34.3,6.7,Saturaday,Double cheese,Dinner,22/5/19,Card
+41.19,5,Sunday,Carbonara,Brunch,23/5/19,Cash
+27.05,5,Thursday,BBQ chicken,Dinner,24/5/19,Card
+16.43,2.3,Tuesday,BBQ chicken,Lunch,25/5/19,Card
+8.35,1.5,Wednesday,Napolitan,Brunch,26/5/19,Cash
+18.64,1.36,Thursday,Mexican,Brunch,27/5/19,Cash
+11.87,1.63,Friday,Mushrooms,Dinner,28/5/19,Card
+9.78,1.73,Monday,Garlic fingers,Lunch,29/5/19,Cash
+7.51,2,Saturaday,Carbonara,Brunch,30/5/19,Card
+14.07,2.5,Sunday,Rustica,Dinner,31/5/19,Card
+13.13,2,Thursday,Supreme,Brunch,1/6/19,Cash
+17.26,2.74,Tuesday,Double cheese,Dinner,2/6/19,Card
+24.55,2,Wednesday,Supreme,Lunch,3/6/19,Cash
+19.77,2,Saturaday,Rustica,Brunch,4/6/19,Card
+29.85,5.14,Sunday,Pepperoni,Dinner,5/6/19,Card
+48.17,5,Monday,Napolitan,Lunch,6/6/19,Cash
+25,3.75,Sunday,Mushrooms,Brunch,7/6/19,Card
+13.39,2.61,Tuesday,Mexican,Lunch,8/6/19,Card
+16.49,2,Friday,Hawaian,Dinner,9/6/19,Card
+21.5,3.5,Thursday,Garlic fingers,Lunch,10/6/19,Card
+12.66,2.5,Wednesday,Double cheese,Brunch,11/6/19,Card
+16.21,2,Saturaday,Carbonara,Dinner,12/6/19,Card
+13.81,2,Thursday,BBQ chicken,Lunch,13/6/19,Card
+17.51,3,Saturaday,Mushrooms,Brunch,14/6/19,Card
+24.52,3.48,Sunday,Napolitan,Lunch,15/6/19,Cash
+20.76,2.24,Friday,Pepperoni,Lunch,16/6/19,Cash
+31.71,4.5,Monday,Rustica,Lunch,17/6/19,Cash
+10.59,1.61,Saturaday,Supreme,Brunch,18/6/19,Card
+10.63,2,Sunday,Supreme,Lunch,19/6/19,Card
+50.81,10,Thursday,Rustica,Dinner,20/6/19,Cash
+15.81,3.16,Tuesday,Pepperoni,Brunch,21/6/19,Card
+7.25,5.15,Wednesday,Napolitan,Dinner,22/6/19,Cash
+31.85,3.18,Thursday,Mushrooms,Lunch,23/6/19,Card
+16.82,4,Monday,Mexican,Brunch,24/6/19,Card
+32.9,3.11,Sunday,Hawaian,Lunch,25/6/19,Card
+17.89,2,Tuesday,Garlic fingers,Dinner,26/6/19,Card
+14.48,2,Friday,Double cheese,Brunch,27/6/19,Cash
+9.6,4,Thursday,Carbonara,Dinner,28/6/19,Card
+34.63,3.55,Wednesday,BBQ chicken,Lunch,29/6/19,Cash
+34.65,3.68,Saturaday,Pepperoni,Brunch,30/6/19,Card
+23.33,5.65,Thursday,BBQ chicken,Dinner,1/7/19,Cash
+45.35,3.5,Thursday,Napolitan,Lunch,2/7/19,Card
+23.17,6.5,Friday,Mexican,Brunch,3/7/19,Card
+40.55,3,Monday,Mushrooms,Lunch,4/7/19,Card
+20.69,5,Saturaday,Garlic fingers,Dinner,5/7/19,Card
+20.9,3.5,Sunday,Carbonara,Brunch,6/7/19,Card
+30.46,2,Thursday,Rustica,Dinner,7/7/19,Card
+18.15,3.5,Tuesday,Supreme,Lunch,8/7/19,Cash
+23.1,4,Wednesday,Double cheese,Brunch,9/7/19,Card
+15.69,1.5,Thursday,Rustica,Lunch,10/7/19,Cash
+19.81,4.19,Thursday,Supreme,Dinner,11/7/19,Cash
+28.44,2.56,Friday,Double cheese,Brunch,12/7/19,Cash
+15.48,2.02,Monday,Rustica,Dinner,13/7/19,Card
+16.58,4,Saturaday,Supreme,Lunch,14/7/19,Card
+7.56,1.44,Sunday,Double cheese,Brunch,15/7/19,Card
+10.34,2,Thursday,Double cheese,Brunch,16/7/19,Cash
+43.11,5,Tuesday,Garlic fingers,Dinner,17/7/19,Card
+13,2,Wednesday,Hawaian,Lunch,18/7/19,Card
+13.51,2,Saturaday,Mexican,Brunch,19/7/19,Card
+18.71,4,Sunday,Mushrooms,Brunch,20/7/19,Card
+12.74,2.01,Wednesday,Napolitan,Lunch,21/7/19,Card
+13,2,Tuesday,Pepperoni,Dinner,22/7/19,Cash
+16.4,2.5,Thursday,Rustica,Brunch,23/7/19,Card
+20.53,4,Sunday,Supreme,Dinner,24/7/19,Card
+16.47,3.23,Saturaday,Supreme,Lunch,25/7/19,Card
+26.59,3.41,Monday,Rustica,Brunch,26/7/19,Card
+38.73,3,Friday,Pepperoni,Brunch,27/7/19,Card
+24.27,2.03,Thursday,Napolitan,Lunch,28/7/19,Cash
+12.76,2.23,Friday,Mushrooms,Dinner,29/7/19,Cash
+30.06,2,Monday,Mexican,Brunch,30/7/19,Cash
+25.89,5.16,Saturaday,Hawaian,Dinner,31/7/19,Card
+48.33,9,Sunday,Garlic fingers,Lunch,1/8/19,Cash
+13.27,2.5,Thursday,Double cheese,Brunch,2/8/19,Card
+28.17,6.5,Tuesday,Carbonara,Lunch,3/8/19,Card
+12.9,1.1,Wednesday,BBQ chicken,Brunch,4/8/19,Card
+28.15,3,Monday,Mexican,Lunch,5/8/19,Card
+11.59,1.5,Sunday,Mushrooms,Dinner,6/8/19,Card
+7.74,1.44,Tuesday,Garlic fingers,Brunch,7/8/19,Card
+30.14,3.09,Friday,Carbonara,Lunch,8/8/19,Cash
+12.16,2.2,Thursday,Rustica,Dinner,9/8/19,Card
+13.42,3.48,Wednesday,Supreme,Brunch,10/8/19,Card
+8.58,1.92,Saturaday,Double cheese,Dinner,11/8/19,Cash
+15.98,3,Monday,BBQ chicken,Lunch,12/8/19,Cash
+13.42,1.58,Friday,Carbonara,Brunch,13/8/19,Card
+16.27,2.5,Monday,Double cheese,Brunch,14/8/19,Card
+10.09,2,Saturaday,Garlic fingers,Lunch,15/8/19,Card
+20.45,3,Sunday,Hawaian,Dinner,16/8/19,Cash
+13.28,2.72,Monday,Mexican,Brunch,17/8/19,Cash
+22.12,2.88,Tuesday,Mushrooms,Dinner,18/8/19,Card
+24.01,2,Wednesday,Napolitan,Lunch,19/8/19,Cash
+15.69,3,Monday,Pepperoni,Brunch,20/8/19,Card
+11.61,3.39,Thursday,Rustica,Dinner,21/8/19,Cash
+10.77,1.47,Wednesday,Supreme,Brunch,22/8/19,Cash
+15.53,3,Tuesday,Rustica,Dinner,23/8/19,Cash
+10.07,1.25,Saturaday,Supreme,Lunch,24/8/19,Card
+12.6,1,Sunday,Double cheese,Brunch,25/8/19,Cash
+32.83,1.17,Friday,Double cheese,Lunch,26/8/19,Card
+35.83,4.67,Monday,Garlic fingers,Brunch,27/8/19,Card
+29.03,5.92,Saturaday,Hawaian,Lunch,28/8/19,Card
+27.18,2,Sunday,Mexican,Dinner,29/8/19,Cash
+22.67,2,Thursday,Mushrooms,Dinner,30/8/19,Card
+17.82,1.75,Tuesday,Napolitan,Brunch,31/8/19,Cash
+18.78,3,Wednesday,Pepperoni,Dinner,1/9/19,Card
